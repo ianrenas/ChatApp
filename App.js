@@ -1,4 +1,4 @@
-// import the screens
+// import the two screens
 import Start from './components/Start';
 import Chat from './components/Chat';
 
@@ -33,3 +33,4 @@ export default class App extends React.Component {
     );
   }
 }
+
